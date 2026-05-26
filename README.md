@@ -53,4 +53,6 @@ https://nextjs-b2b-saas-starter.vercel.app
 
 ## Get Started
 
-Buy on Gumroad to get the full source code.
+## 💰 Buy on Gumroad
+
+👉 [Get the full source code — €149](https://7538195787226.gumroad.com/l/saaskit-nextjs)
